@@ -231,3 +231,112 @@ select {
   clear: both;
   display: table;
 }
+
+@media (max-width: 541px) {
+  h1 {
+    font-size: 25px;
+  }
+  .category-label {
+    font-size: 18px;
+  }
+  .category-value {
+    font-size: 14px;
+  }
+  .remaining-funds {
+    font-size: 14px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  input {
+    max-width: 55px;
+  }
+}
+
+@media (max-width: 415px) {
+  h1 {
+    font-size: 18px;
+  }
+  .category-label {
+    font-size: 18px;
+  }
+  .category-value {
+    font-size: 14px;
+  }
+  .remaining-funds {
+    font-size: 14px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  input {
+    max-width: 55px;
+  }
+}
+
+@media (max-width: 376px) {
+  h1 {
+    font-size: 18px;
+  }
+  .category-label {
+    font-size: 18px;
+  }
+  .category-value {
+    font-size: 14px;
+  }
+  .remaining-funds {
+    font-size: 14px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  input {
+    max-width: 55px;
+  }
+}
+
+@media (max-width: 361px) {
+  h1 {
+    font-size: 18px;
+  }
+  .category-label {
+    font-size: 18px;
+  }
+  .category-value {
+    font-size: 14px;
+  }
+  .remaining-funds {
+    font-size: 14px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  input {
+    max-width: 40px;
+  }
+}
+
+@media (max-width: 281px) {
+  h1 {
+    font-size: 18px;
+  }
+  .category-label {
+    font-size: 15px;
+  }
+  .category-value {
+    font-size: 9px;
+  }
+  .remaining-funds {
+    font-size: 9px;
+  }
+  h2 {
+    font-size: 15px;
+  }
+  input {
+    max-width: 5px;
+  }
+  label {
+    font-size: 10px;
+  }
+}
+
